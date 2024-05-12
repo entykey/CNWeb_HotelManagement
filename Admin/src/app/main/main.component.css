@@ -1,0 +1,5 @@
+p.delete{
+    color: red;
+    cursor: pointer;
+    width: fit-content;
+}

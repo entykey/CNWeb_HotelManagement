@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist\\hotel-management-admin",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
